@@ -1,0 +1,131 @@
+object Form1: TForm1
+  Left = 426
+  Height = 396
+  Top = 127
+  Width = 504
+  Caption = 'sqlite demo'
+  ClientHeight = 396
+  ClientWidth = 504
+  OnCreate = FormCreate
+  Position = poScreenCenter
+  LCLVersion = '1.8.4.0'
+  object Button1: TButton
+    Left = 25
+    Height = 28
+    Top = 41
+    Width = 86
+    Caption = 'create db'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Memo1: TMemo
+    Left = 159
+    Height = 279
+    Top = 27
+    Width = 326
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 25
+    Height = 27
+    Top = 87
+    Width = 84
+    Caption = 'open db'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 27
+    Height = 24
+    Top = 129
+    Width = 80
+    Caption = 'add db'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+  object Edit1: TEdit
+    Left = 165
+    Height = 23
+    Top = 320
+    Width = 108
+    TabOrder = 4
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 166
+    Height = 23
+    Top = 347
+    Width = 108
+    TabOrder = 5
+    Text = 'Edit2'
+  end
+  object Button4: TButton
+    Left = 28
+    Height = 22
+    Top = 168
+    Width = 78
+    Caption = 'edit db'
+    OnClick = Button4Click
+    TabOrder = 6
+  end
+  object Label1: TLabel
+    Left = 376
+    Height = 24
+    Top = 347
+    Width = 74
+    AutoSize = False
+    Caption = 'Label1'
+    ParentColor = False
+  end
+  object Button5: TButton
+    Left = 296
+    Height = 30
+    Top = 340
+    Width = 75
+    Caption = 'count'
+    OnClick = Button5Click
+    TabOrder = 7
+  end
+  object Button6: TButton
+    Left = 14
+    Height = 22
+    Top = 362
+    Width = 54
+    Caption = 'version'
+    OnClick = Button6Click
+    TabOrder = 8
+  end
+  object Label2: TLabel
+    Left = 82
+    Height = 15
+    Top = 365
+    Width = 34
+    Caption = 'Label2'
+    ParentColor = False
+  end
+  object SQLQuery1: TSQLQuery
+    FieldDefs = <>
+    Database = SQLite3Connection1
+    Transaction = SQLTransaction1
+    Params = <>
+    left = 48
+    top = 248
+  end
+  object SQLTransaction1: TSQLTransaction
+    Active = False
+    Database = SQLite3Connection1
+    left = 48
+    top = 304
+  end
+  object SQLite3Connection1: TSQLite3Connection
+    Connected = False
+    LoginPrompt = False
+    KeepConnection = False
+    Transaction = SQLTransaction1
+    left = 48
+    top = 192
+  end
+end

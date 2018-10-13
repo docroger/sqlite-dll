@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="sqlite_demo_p.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="164"/>
+        <CursorPos X="21" Y="191"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="26" HistoryIndex="25">
+      <Position1>
+        <Filename Value="sqlitedemo_u.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="41" Column="10" TopLine="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="9" Column="31"/>
+      </Position3>
+      <Position4>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="42" TopLine="18"/>
+      </Position4>
+      <Position5>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="85" Column="2" TopLine="39"/>
+      </Position5>
+      <Position6>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="26" Column="21" TopLine="4"/>
+      </Position6>
+      <Position7>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="64" Column="36" TopLine="51"/>
+      </Position7>
+      <Position8>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="44" Column="73" TopLine="44"/>
+      </Position8>
+      <Position9>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="96" Column="58" TopLine="79"/>
+      </Position9>
+      <Position10>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="97" Column="58" TopLine="80"/>
+      </Position10>
+      <Position11>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="112" TopLine="85"/>
+      </Position11>
+      <Position12>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="108" TopLine="89"/>
+      </Position12>
+      <Position13>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="97" Column="15" TopLine="83"/>
+      </Position13>
+      <Position14>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="102" Column="10" TopLine="88"/>
+      </Position14>
+      <Position15>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="9" Column="36"/>
+      </Position15>
+      <Position16>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="116" Column="4" TopLine="103"/>
+      </Position16>
+      <Position17>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="107" Column="21" TopLine="102"/>
+      </Position17>
+      <Position18>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="108" Column="21" TopLine="104"/>
+      </Position18>
+      <Position19>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="109" Column="21" TopLine="105"/>
+      </Position19>
+      <Position20>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="111" Column="21" TopLine="107"/>
+      </Position20>
+      <Position21>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="165" Column="46" TopLine="141"/>
+      </Position21>
+      <Position22>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="166" Column="21" TopLine="102"/>
+      </Position22>
+      <Position23>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="173" Column="28" TopLine="145"/>
+      </Position23>
+      <Position24>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="48" Column="64" TopLine="31"/>
+      </Position24>
+      <Position25>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="49" Column="64" TopLine="32"/>
+      </Position25>
+      <Position26>
+        <Filename Value="sqlitedemo_u.pas"/>
+        <Caret Line="51" Column="64" TopLine="33"/>
+      </Position26>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
